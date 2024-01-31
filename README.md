@@ -1,4 +1,4 @@
-## Antller Absenteism Analysis
+## Antler Absenteism Analysis
 ### Business Understanding
 Antler wants to analyse the various factors and causes associated with absenteism of its employees.
 The provided is one year with various attributes associated with its employees.This was part of 
@@ -17,6 +17,15 @@ Created a Dynamic Dashboard to provide all required information. It has two vers
 my own analysis where i have tried to include all the atributes thats somehow is connected with reason 
 for absence.The other one represents the queries as it was asked in the given assignment.
 
+![Dashboard (1)](https://github.com/pallavi1230/Tableau-Project/assets/155734492/ee25197c-67a6-40d9-9617-2d42890ca81b)
+
+
+![Dashboard](https://github.com/pallavi1230/Tableau-Project/assets/155734492/709fb9ad-942a-4586-bc16-d00944637e0b)
+
+
 ### Analysis
 Here is a brief synopsis of that analysis.
 ![Story 1 (1)](https://github.com/pallavi1230/Tableau-Project/assets/155734492/d389391d-a1de-4d3a-a6c4-80ae99b9c847)
+Apart from this it was interesting to note that employees with no children or too many pets were more in absentees list , 
+in comparision to employees with more children and less pets. Also the abseeteism was higher on Mondays with respect to 
+other weekdays.
